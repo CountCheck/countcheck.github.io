@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://countcheck.github.io/sitemap.xml
